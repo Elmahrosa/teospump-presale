@@ -1,7 +1,3 @@
-/frontend  → Next.js code
-/backend   → Node.js watcher
-presaleConfig.json → Editable pricing & address config
-README.md → Setup + deployment instructions
 {
   "rewrites": [
     {
