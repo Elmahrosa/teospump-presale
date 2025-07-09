@@ -1,0 +1,10 @@
+{
+  "token": "TEOS",
+  "paymentMethods": ["SOL", "UST", "Pi"],
+  "localization": {
+    "languages": ["en", "ar"],
+    "theme": {
+      "darkMode": true
+    }
+  }
+}
