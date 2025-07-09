@@ -2,3 +2,11 @@
 /backend   → Node.js watcher
 presaleConfig.json → Editable pricing & address config
 README.md → Setup + deployment instructions
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/Structured/index.html"
+    }
+  ]
+}
