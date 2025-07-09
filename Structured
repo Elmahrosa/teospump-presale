@@ -6,3 +6,22 @@
     }
   ]
 }
+teospump-presale/
+│
+├── frontend/                   # ✅ Next.js frontend app
+│   ├── pages/
+│   │   ├── index.js
+│   │   └── api/
+│   │       └── status.js       # example API route
+│   ├── public/
+│   │   └── teos_logo.png       # your assets
+│   ├── styles/
+│   │   └── globals.css
+│   ├── .env.local.example
+│   ├── package.json
+│   └── next.config.js
+│
+├── presaleConfig.json          # 🔧 config for pricing/address
+├── README.md                   # 📘 main instructions
+├── DEPLOYMENT.md               # 🚀 deployment guide
+└── LICENSE
