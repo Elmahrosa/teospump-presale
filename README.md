@@ -35,3 +35,11 @@ An all-in-one, multilingual (Arabic/English) launchpad for the TEOS Egypt token�
 git clone https://github.com/Elmahrosa/teospump-presale.git
 cd teospump-presale
 npm install
+# 🚀 Teos Pump Presale
+
+Welcome to the official presale platform for Teos Pump. This is a full-stack dApp featuring a Next.js frontend, Node.js backend (converted to serverless where needed), and customizable presale settings.
+
+---
+
+## 🧱 Project Structure
+
